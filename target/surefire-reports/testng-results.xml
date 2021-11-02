@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="124951" started-at="2021-10-22T04:31:43Z" finished-at="2021-10-22T04:33:48Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="124951" started-at="2021-10-22T04:31:43Z" finished-at="2021-10-22T04:33:48Z">
+      <class name="com.mindtree.runner.AtlanticApplication">
+        <test-method status="PASS" signature="searchBook()[pri:1, instance:com.mindtree.runner.AtlanticApplication@8448fa]" name="searchBook" duration-ms="53096" started-at="2021-10-22T04:31:43Z" finished-at="2021-10-22T04:32:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchBook -->
+        <test-method status="PASS" signature="tearDownn()[pri:0, instance:com.mindtree.runner.AtlanticApplication@8448fa]" name="tearDownn" is-config="true" duration-ms="231" started-at="2021-10-22T04:32:36Z" finished-at="2021-10-22T04:32:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownn -->
+        <test-method status="PASS" signature="LoginApp(java.lang.String, java.lang.String)[pri:2, instance:com.mindtree.runner.AtlanticApplication@8448fa]" name="LoginApp" duration-ms="28307" started-at="2021-10-22T04:32:36Z" data-provider="getData" finished-at="2021-10-22T04:33:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[demo@qw.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginApp -->
+        <test-method status="PASS" signature="tearDownn()[pri:0, instance:com.mindtree.runner.AtlanticApplication@8448fa]" name="tearDownn" is-config="true" duration-ms="275" started-at="2021-10-22T04:33:05Z" finished-at="2021-10-22T04:33:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownn -->
+        <test-method status="PASS" signature="LoginApp(java.lang.String, java.lang.String)[pri:2, instance:com.mindtree.runner.AtlanticApplication@8448fa]" name="LoginApp" duration-ms="42732" started-at="2021-10-22T04:33:05Z" data-provider="getData" finished-at="2021-10-22T04:33:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user@qw.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[456788]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginApp -->
+        <test-method status="PASS" signature="tearDownn()[pri:0, instance:com.mindtree.runner.AtlanticApplication@8448fa]" name="tearDownn" is-config="true" duration-ms="271" started-at="2021-10-22T04:33:48Z" finished-at="2021-10-22T04:33:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownn -->
+      </class> <!-- com.mindtree.runner.AtlanticApplication -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

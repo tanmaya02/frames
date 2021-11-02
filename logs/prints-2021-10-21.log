@@ -1,0 +1,6 @@
+17:13:41.295 [main] INFO  com.mindtree.runner.AtlanticApplication - Starting Application!
+17:14:06.482 [main] INFO  com.mindtree.runner.AtlanticApplication - Searching for the book 1
+17:14:16.518 [main] INFO  com.mindtree.runner.AtlanticApplication - Searching for the book 2
+17:14:27.575 [main] INFO  com.mindtree.runner.AtlanticApplication - Searching for the book 3
+17:14:27.689 [main] INFO  com.mindtree.runner.AtlanticApplication - Closing the browser!
+17:36:26.288 [main] INFO  com.mindtree.runner.AtlanticApplication - Starting Application!
